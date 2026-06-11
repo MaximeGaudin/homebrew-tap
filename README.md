@@ -1,17 +1,17 @@
-# homebrew-void
+# homebrew-tap
 
 Homebrew tap for [void](https://github.com/MaximeGaudin/void) — one inbox for everything.
 
 ## Install
 
 ```bash
-brew install MaximeGaudin/void/void
+brew install MaximeGaudin/tap/void
 ```
 
 Or tap first, then install:
 
 ```bash
-brew tap MaximeGaudin/void
+brew tap MaximeGaudin/tap
 brew install void
 ```
 
