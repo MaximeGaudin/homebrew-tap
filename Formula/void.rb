@@ -5,17 +5,17 @@
 class Void < Formula
   desc "One inbox for everything — unified messaging CLI"
   homepage "https://github.com/MaximeGaudin/void"
-  version "0.15.0"
+  version "0.15.1"
   license "AGPL-3.0-only"
 
   on_macos do
     on_arm do
-      url "https://github.com/MaximeGaudin/void/releases/download/0.15.0/void-darwin-arm64.tar.gz"
-      sha256 "3da2e832a81436bfe1f1b776755809245388cb8a1261990d3da80d21b2301b49"
+      url "https://github.com/MaximeGaudin/void/releases/download/0.15.1/void-darwin-arm64.tar.gz"
+      sha256 "917a20409457bca1dc87923c84efd2e945d6c9740b6221e21d376884e7702fb7"
     end
     on_intel do
-      url "https://github.com/MaximeGaudin/void/releases/download/0.15.0/void-darwin-amd64.tar.gz"
-      sha256 "3139957af23a8f58aa56ee478226566b49b3e036ee78cb99e3942dc0f6d57ce6"
+      url "https://github.com/MaximeGaudin/void/releases/download/0.15.1/void-darwin-amd64.tar.gz"
+      sha256 "a8bbd9e3142ee6c4eb0a0605a02dc31e6d55f8b576a7524cccb54adb608e5b89"
     end
   end
 
